@@ -3,7 +3,7 @@
 
 ![kezcoding](https://github-readme-stats.vercel.app/api?username=kezcoding&show_icons=true&theme=tokyonight)
 
-<a     
+<a>
   <img align="left" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" height="30px" width="30px"/>
-  <p> align="left">kzxed#0666</p>
+  <p   align="left">kzxed#0666</p>
 </a>
