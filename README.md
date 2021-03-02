@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Kez !</h1>
-<h3 align="center">Un développeur français passionné !</h3>
+<h3 align="center">Un développeur passionné !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kezcoding&label=Profile%20views&color=0e75b6&style=flat" alt="kezcoding" /> </p>
 
