@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kezytb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kezytb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kzxed." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kzxed." height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kzxed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kzxed." height="30" width="40" /></a>
 <a href="https://discord.gg/9VNmgjejMj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="9VNmgjejMj" height="30" width="40" /></a>
 </p>
 
