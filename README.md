@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kzxedcode&label=Profile%20views&color=0e75b6&style=flat" alt="kzxedcode" /> </p>
 
-- 🔭 Je développe actuellement **Kzxed Bot**
+- 🔭 Développeur Web fullstack
 
 <h3 align="left">Me contacter:</h3>
 <p align="left">
